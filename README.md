@@ -27,7 +27,11 @@ const socialProfile = textForPublication.socialProfile;
 
 # Technologies used for this masterpiece!
 
-Node.js <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <br>
-Puppeteer <img src="https://pptr.dev/img/favicon.ico"/> <br>
+<div class="technologies">
+    <p>Node.js <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></p>
+</div>
+<div class="technologies">
+    <p>Puppeteer <img src="https://pptr.dev/img/favicon.ico"/></p>
+</div>
 
 # That's it Happy coding!
