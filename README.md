@@ -9,8 +9,6 @@ In this code, I simply loggin in LinkedIn, and make a small publication mentioni
 Use credentials.json for authentication porpuses.
 Use text-for-publication.json for type the message.
 
-# Initiating project
-
 ```bash
 npm install
 node index.js
@@ -26,5 +24,10 @@ const socialProfile = textForPublication.socialProfile;
   // AWAIT YOUR CODE
 })();
 ```
+
+# Technologies used for this masterpiece!
+
+Node.js <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <br>
+Puppeteer <img src="https://pptr.dev/img/favicon.ico"/> <br>
 
 # That's it Happy coding!
