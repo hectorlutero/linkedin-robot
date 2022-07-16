@@ -11,10 +11,20 @@ Use text-for-publication.json for type the message.
 
 # Initiating project
 
-```
+```bash
 npm install
 node index.js
+```
 
+```javascript
+const puppeteer = require("puppeteer");
+const credentials = require("./config/credentials.json");
+const textForPublication = require("./config/text-for-publication.json");
+const socialProfile = textForPublication.socialProfile;
+
+(async () => {
+  // AWAIT YOUR CODE
+})();
 ```
 
 # That's it Happy coding!
