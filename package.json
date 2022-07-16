@@ -1,0 +1,21 @@
+{
+  "name": "linkedin-robot",
+  "version": "1.0.0",
+  "description": "This is just a Robot to use Linkedin",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "linkedin-robot"
+  },
+  "author": "Hector Siman",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.4.0"
+  }
+}
